@@ -1,6 +1,6 @@
 <template>
 	<div class="container text-center">
-		<img class="img-fluid main-img" src="/assets/logo.png" />
+		<img class="img-fluid main-img" src="/assets/logo.svg" />
 
 		<div class="text-align-header mt-5 mb-2">
 			<h1>Mint your {{ getTldName }} domain!</h1>
